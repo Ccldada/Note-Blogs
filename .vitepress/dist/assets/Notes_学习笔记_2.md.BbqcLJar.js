@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,j as s}from"./chunks/framework.DxPgwshE.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Notes/学习笔记/2.md","filePath":"Notes/学习笔记/2.md"}'),a={name:"Notes/学习笔记/2.md"},n=s("p",null,"笔记",-1),r=[n];function c(_,d,i,p,l,m){return o(),t("div",null,r)}const u=e(a,[["render",c]]);export{h as __pageData,u as default};
