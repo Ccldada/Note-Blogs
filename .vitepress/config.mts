@@ -22,7 +22,7 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://ccldada.github.io/Note-Blogs/" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Ccldada" }],
   },
   // 根据文章目录生成侧边栏
   vite: {
