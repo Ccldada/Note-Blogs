@@ -136,4 +136,7 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+.is-home img{
+  border-radius: 50%;
+}
 
