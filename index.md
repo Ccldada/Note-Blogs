@@ -7,7 +7,7 @@ hero:
   text: "笔记"
   tagline: 记录学习前端笔记
   image:
-    src: /public/avatar.jpg
+    src: /avatar.jpg
     alt: emmm
 
 features:
