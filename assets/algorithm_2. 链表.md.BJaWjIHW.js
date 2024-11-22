@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DWT__QHq.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/2. 链表.md","filePath":"algorithm/2. 链表.md"}'),r={name:"algorithm/2. 链表.md"};function o(s,_,c,n,i,m){return a(),e("div")}const l=t(r,[["render",o]]);export{d as __pageData,l as default};
